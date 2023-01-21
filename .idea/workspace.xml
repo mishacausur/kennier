@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f726456-9de1-4f53-96cf-96e534ae3750" name="Changes" comment="task 4">
+    <list default="true" id="2f726456-9de1-4f53-96cf-96e534ae3750" name="Changes" comment="task 5 arrays">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,14 +65,33 @@
       <option name="project" value="LOCAL" />
       <updated>1674327930471</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="task 5 arrays">
+      <created>1674328595778</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674328595778</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
     <MESSAGE value="first task" />
     <MESSAGE value="third task" />
     <MESSAGE value="task 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 4" />
+    <MESSAGE value="task 5 arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 5 arrays" />
   </component>
 </project>
