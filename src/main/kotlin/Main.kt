@@ -16,5 +16,11 @@ fun sumSmth(firstNumber: Int, secondNumber: Int) {
 
 fun stringer() {
     val str = "string powerful"
-    println("string is now $str")
+    println(
+        "string is now ${
+            str
+        .uppercase()
+        .lowercase()
+    }"
+    )
 }
