@@ -1,5 +1,13 @@
 fun main() {
-listChecker()
+    log("Candy", "Apple", "Car")
+}
+
+fun log(vararg entries: String) {
+    printStrings(*entries)
+}
+
+fun printStrings(vararg strings: String) {
+    strings.forEach { println(it.uppercase()) }
 }
 
 fun listChecker() {
