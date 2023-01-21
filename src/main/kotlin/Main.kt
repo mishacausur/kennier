@@ -1,5 +1,18 @@
 fun main() {
-   makeSmth("Project started")
+enterPoint(false)
+}
+
+fun enterPoint(isNow: Boolean) {
+    if (isNow == true) before() else after()
+}
+
+fun after() {
+    val input = readLine()
+    println("you have entered: $input")
+}
+
+fun before() {
+    makeSmth("Project started")
     sumSmth(320, 390)
     stringer()
 }
