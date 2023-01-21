@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f726456-9de1-4f53-96cf-96e534ae3750" name="Changes" comment="third task">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2f726456-9de1-4f53-96cf-96e534ae3750" name="Changes" comment="task 4">
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,13 +57,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674326902415</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="task 4">
+      <created>1674327930471</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674327930471</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
     <MESSAGE value="first task" />
     <MESSAGE value="third task" />
-    <option name="LAST_COMMIT_MESSAGE" value="third task" />
+    <MESSAGE value="task 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 4" />
   </component>
 </project>

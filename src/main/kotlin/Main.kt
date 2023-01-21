@@ -8,7 +8,9 @@ fun enterPoint(isNow: Boolean) {
 
 fun after() {
     val input = readLine()
-    println("you have entered: $input")
+    println("you have entered: ${input?.uppercase()}")
+    val array = arrayOf("one", "two", "three")
+    array.forEach { println(it) }
 }
 
 fun before() {
